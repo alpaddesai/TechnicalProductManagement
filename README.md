@@ -29,3 +29,5 @@ The project provides an overview of academic product management. All images are 
 ![image](ProductManager.jpg)
 
 ![image](ProductManagerCertification.jpg)
+
+Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea2022
