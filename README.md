@@ -30,4 +30,4 @@ The project provides an overview of academic product management. All images are 
 
 ![image](ProductManagerCertification.jpg)
 
-Additional details reference https://github.com/alpaddesai/BusinessAnalysis, https://github.com/alpaddesai/IntroWebDevHealthCareProject and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea2022
+Additional details reference https://github.com/alpaddesai/BusinessAnalysis, https://github.com/alpaddesai/IntroWebDevHealthCareProject and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
