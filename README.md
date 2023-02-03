@@ -30,4 +30,8 @@ The project provides an overview of academic product management. All images are 
 
 ![image](ProductManagerCertification.jpg)
 
+![image](EthicsandExcellence.png)
+
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
