@@ -26,10 +26,6 @@ The project provides an overview of academic product management. All images are 
 
 ![image](TechnicalProductManagement12.jpg)
 
-![image](ProductManager.jpg)
-
-![image](ProductManagerCertification.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
